@@ -6,7 +6,7 @@ node -v 16.13.2
 
 
 
-RUN : mainjs FILEPATH SCALE OUTFILENAME CANVAS [ 1 for extend asckii symbols and 0 for basic symbols ]
+RUN : mainjs    FILEPATH    SCALE     OUTFILENAME    CANVAS      [ 1 for extend asckii symbols and 0 for basic symbols ]
 
 
  extend asckii symbols  = "$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\\|()1{}[]?-_+~<>i!lI;:,\"^`'. ";
