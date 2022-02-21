@@ -1,5 +1,5 @@
 # image-to-asckii-image-js
-transforme image to image with asckii symbols
+transforme image to image with ascii symbols
 
 how to use 
 node -v 16.13.2
